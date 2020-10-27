@@ -1,2 +1,2 @@
-# aironbot_describiton
-aironbot_describtion
+# aironbot_description
+aironbot_description

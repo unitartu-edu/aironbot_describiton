@@ -1,10 +1,10 @@
 # aironbot_description
 
-## To run the model navigate into:
+## To run the model:
 
 *ros2 launch aironbot_description display.launch.py*
 
-## Screenshot in working condition
+## The visual model of the complete robot
 
 <img src="./aironbot.png">
 
